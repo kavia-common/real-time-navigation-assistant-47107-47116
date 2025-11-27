@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/real-time-navigation-assistant-47107-47116/navigation_backend"
+}
